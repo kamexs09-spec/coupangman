@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/B_team/static/css/main.54ead801.css",
-    "main.js": "/B_team/static/js/main.9b9885aa.js",
-    "static/media/GmarketSansMedium.otf": "/B_team/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
-    "static/media/SUIT-Variable.woff2": "/B_team/static/media/SUIT-Variable.4934db6253fddcbab8a7.woff2",
-    "static/media/main_slide_img03.jpg": "/B_team/static/media/main_slide_img03.3d058facb9e0c7ded994.jpg",
-    "static/media/main_slide_img01.jpg": "/B_team/static/media/main_slide_img01.4d70c4c8e7f309bb1d43.jpg",
-    "static/media/main_slide_img02.jpg": "/B_team/static/media/main_slide_img02.38bdb118562d786d623a.jpg",
-    "static/media/main_slide_img05.jpg": "/B_team/static/media/main_slide_img05.3c241836d12a24d90414.jpg",
-    "static/media/main_slide_img04.jpg": "/B_team/static/media/main_slide_img04.4e46f9126196fab5d939.jpg",
-    "static/media/footer_logo.svg": "/B_team/static/media/footer_logo.06eef441d1ab9697b89207358e1fbe6d.svg",
-    "static/media/logo.svg": "/B_team/static/media/logo.17a957288fdc7b3fa9c5aff1f3d70e60.svg",
-    "static/media/footer_icon_blog.svg": "/B_team/static/media/footer_icon_blog.4af07e58d24426cc198cb9466c394e80.svg",
-    "static/media/search_icon.svg": "/B_team/static/media/search_icon.8b04ab1778b8e2ae297c3568fee858d8.svg",
-    "static/media/footer_icon_facebook.svg": "/B_team/static/media/footer_icon_facebook.81a0bd531d397a5cd8fd0eaf26c1dccb.svg",
-    "static/media/footer_icon_insta.svg": "/B_team/static/media/footer_icon_insta.05da711ad5ffcc70c39a1575392e3ac9.svg",
-    "index.html": "/B_team/index.html",
-    "static/media/all_menu.svg": "/B_team/static/media/all_menu.95d23a7bf4a6529c0e5c5925221a9da8.svg",
-    "main.54ead801.css.map": "/B_team/static/css/main.54ead801.css.map",
-    "main.9b9885aa.js.map": "/B_team/static/js/main.9b9885aa.js.map"
+    "main.css": "/coupangman/static/css/main.489550ac.css",
+    "main.js": "/coupangman/static/js/main.7c1e3134.js",
+    "static/media/GmarketSansMedium.otf": "/coupangman/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/SUIT-Variable.woff2": "/coupangman/static/media/SUIT-Variable.4934db6253fddcbab8a7.woff2",
+    "static/media/main_slide_img03.jpg": "/coupangman/static/media/main_slide_img03.3d058facb9e0c7ded994.jpg",
+    "static/media/main_slide_img01.jpg": "/coupangman/static/media/main_slide_img01.4d70c4c8e7f309bb1d43.jpg",
+    "static/media/main_slide_img02.jpg": "/coupangman/static/media/main_slide_img02.38bdb118562d786d623a.jpg",
+    "static/media/main_slide_img05.jpg": "/coupangman/static/media/main_slide_img05.3c241836d12a24d90414.jpg",
+    "static/media/main_slide_img04.jpg": "/coupangman/static/media/main_slide_img04.4e46f9126196fab5d939.jpg",
+    "static/media/footer_logo.svg": "/coupangman/static/media/footer_logo.06eef441d1ab9697b89207358e1fbe6d.svg",
+    "static/media/logo.svg": "/coupangman/static/media/logo.17a957288fdc7b3fa9c5aff1f3d70e60.svg",
+    "static/media/footer_icon_blog.svg": "/coupangman/static/media/footer_icon_blog.4af07e58d24426cc198cb9466c394e80.svg",
+    "static/media/search_icon.svg": "/coupangman/static/media/search_icon.8b04ab1778b8e2ae297c3568fee858d8.svg",
+    "static/media/footer_icon_facebook.svg": "/coupangman/static/media/footer_icon_facebook.81a0bd531d397a5cd8fd0eaf26c1dccb.svg",
+    "static/media/footer_icon_insta.svg": "/coupangman/static/media/footer_icon_insta.05da711ad5ffcc70c39a1575392e3ac9.svg",
+    "index.html": "/coupangman/index.html",
+    "static/media/all_menu.svg": "/coupangman/static/media/all_menu.95d23a7bf4a6529c0e5c5925221a9da8.svg",
+    "main.489550ac.css.map": "/coupangman/static/css/main.489550ac.css.map",
+    "main.7c1e3134.js.map": "/coupangman/static/js/main.7c1e3134.js.map"
   },
   "entrypoints": [
-    "static/css/main.54ead801.css",
-    "static/js/main.9b9885aa.js"
+    "static/css/main.489550ac.css",
+    "static/js/main.7c1e3134.js"
   ]
 }
